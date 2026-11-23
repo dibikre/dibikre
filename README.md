@@ -1,16 +1,65 @@
-## Hi there 👋
+```
+            /\  /\                     /\  /\
+           /  \/  \                   /  \/  \
+          /        \                 /        \
+          |        |                 |        |
+          \        /                 \        /
+           \      /                   \      /
+            \    /                     \    /
+             `--'                       `--'
+              \\                         //
+               \\       .-"""""-.       //
+                \\     /  o   o  \     //
+                 \\  /  '-.___.-'  \  //
+                  \(        |        )/
+         .--------|    :    |    :    |--------.
+        /         |    :    |    :    |         \
+       /    .------\        |        /------.    \
+           /        \               /        \
+          /   .------(=============)------.   \
+             /        \___________/        \
+            /   .-----(===========)-----.   \
+               /       \_________/       \
+              /        (=========)        \
+                        \_______/
+                        (=======)       (O)(O)
+                         \_____/     (@)      (O)
+                         (=====)     /          (O)
+                          \___/     '            (O)
+                           (O)                   (O)
+                           (O)                   (O)
+                            (O)                 (O)
+                              (O)             (O)
+                                (O)         (O)
+                                   (O)(O)(O)
 
-<!--
-**dibikre/dibikre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      ########.     @@@     @@@@  ###        ###
+      ###  `####.   @@@    @@@@   ####      ####
+      ###     `###  @@@   @@@@    #####    #####
+      ###      ###  @@@  @@@@     ### ##  ## ###
+      ###      ###  @@@@@@@       ###  ####  ###
+      ###      ###  @@@  @@@@     ###   ##   ###
+      ###     .###  @@@   @@@@    ###        ###
+      ###  .####'   @@@    @@@@   ###        ###
+      ########'     @@@     @@@@  ###        ###
+    '-.__                                        __.-'
+   (     '-.__                              __.-'    )
+    '-.__     '-.__                    __.-'     __.-'
+         '-.__     '-.__          __.-'     __.-'
+              '-.__     '-.____.-'     __.-'
+                   '-.__          __.-'   .===========.
+                        '-.____.-'        |           |
+                                          |    </>    |
+                                          |           |
+                                          '==========='
+```
+
+## Mes projets
+
+| Projet | Description |
+|--------|-------------|
+| [GESTION-API-CSHARP](https://github.com/dibikre/GESTION-API-CSHARP) | Gérer les API, faire les tests et réaliser des pipelines de requêtes API |
+| [audiomack-scra](https://github.com/dibikre/audiomack-scra) | Écouter de la musique gratuitement et sans pub, avec téléchargement illimité |
+| [CARGO](https://github.com/dibikre/CARGO) | Projet fullstack de gestion journalistique liée à la logistique |
